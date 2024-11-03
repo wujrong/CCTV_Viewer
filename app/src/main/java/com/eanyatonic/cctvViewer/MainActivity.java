@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
     private int currentWebView = 0; // 正在使用的webView
     private boolean isChanging = false; // 是否正在换台
 
-    private final String[] liveUrls = { "https://tv.cctv.com/live/cctv1/", "https://tv.cctv.com/live/cctv2/",
+    private final String[] liveUrls = { "https://www.yangshipin.cn/tv/home?pid=600001859", "https://tv.cctv.com/live/cctv2/",
             "https://tv.cctv.com/live/cctv3/", "https://tv.cctv.com/live/cctv4/", "https://tv.cctv.com/live/cctv5/",
             "https://tv.cctv.com/live/cctv6/", "https://tv.cctv.com/live/cctv7/", "https://tv.cctv.com/live/cctv8/",
             "https://tv.cctv.com/live/cctvjilu", "https://tv.cctv.com/live/cctv10/", "https://tv.cctv.com/live/cctv11/",

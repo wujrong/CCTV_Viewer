@@ -49,6 +49,7 @@
             android:label="dexopt"
             android:process=":dexopt" >
         </service>
-    </application>
-
+    </application> 
+    
+    < uses-sdk tools:overrideLibrary="androidx.leanback" />
 </manifest>
